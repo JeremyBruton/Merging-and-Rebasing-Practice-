@@ -32,6 +32,13 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 ##Master 2 changes 
 
+
+##Changes 2
+
+
+Changing stuff on branch 3
+
 ##Master 2 change 1a
 
 ##Change from Remote 
+
