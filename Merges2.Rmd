@@ -42,3 +42,5 @@ Changing stuff on branch 3
 
 ##Change from Remote 
 
+##Branch 3 changes
+
