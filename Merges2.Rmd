@@ -51,6 +51,16 @@ Changing stuff on branch 3
 
 ##Commit 2 
 
+
 ##Master Commit 
 
 ##Master Commit 1a
+
+##Feature Branch changes 
+```{r}
+mean(cars$speed)
+```
+
+
+
+
